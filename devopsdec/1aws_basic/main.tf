@@ -14,8 +14,8 @@ terraform {
 # Configure the AWS Provider
 provider "aws" {
   region = "us-east-2"
-  access_key = "AKIAS5NSTECV2Z35NDIR"
-  secret_key = "biX6dXIDY3/Ba6kCw8jzzaOiNnsDdHW9u04TiP+J"
+  access_key = "yourkey"
+  secret_key = "yourkey"
 }
 
 #Add resource block with required attributes
